@@ -626,9 +626,9 @@ footer a {
     position:fixed;
     right:0;
     bottom:0;
-    margin:20px;
+    margin:15px;
     padding:0px;
-    width: 5rem;
+    width: 4rem;
     animation: rotation 2s infinite linear;
 }
 
